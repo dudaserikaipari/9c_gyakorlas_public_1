@@ -1,0 +1,16 @@
+.jumbotron {
+		height:350px;
+		color:white;
+		text-align:center;
+		background-color: #ffa0f1;
+		background-image: url("img/hatter.jpg");
+		background-attachment: fixed;
+		background-size: cover;
+}
+
+
+.btn {
+		background-color: grey;
+		color:white;
+		font-weight:700;
+}
