@@ -1,1 +1,1 @@
-infok
+Az első gyakorlási lehetőség
